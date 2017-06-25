@@ -1,0 +1,6 @@
+Hello World.
+I wonder how Git interprets these new lines form a windows machine.
+Hope it turns out well.
+
+a
+.
